@@ -3,7 +3,7 @@ Um bot simples que lê 2 arrays. Sendo eles Números e as mensagens e envia em m
 
 
 
-Olá pessoinha ( Ou josé do futoro). Esse bot necessita de instação do node e de duas bibliotecas 
+Olá pessoinha ( Ou josé do futuro). Esse bot necessita de instação do node e de duas bibliotecas 
 
 1° - Instala o node.js
 <br>
