@@ -16,6 +16,7 @@ Olá pessoinha ( Ou josé do futuro). Esse bot necessita de instação do node e
 5° - node index.js
 <br>
 
-Espero que isso funcione desse jeito, Lembre-se de alterar os números e as mensagens. 
+Espero que isso funcione desse jeito, Lembre-se de alterar os números e as mensagens. e adicione um temporizador de no mínimo uns 10 segundos para não tomar ban :)
+
 
 Boa sorte! :)
