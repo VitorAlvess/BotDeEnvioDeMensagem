@@ -1,4 +1,4 @@
-# ScriptDeEnvioDeMensagem
+# Script-Mensagem
 Um Script simples que lê 2 arrays. Sendo eles Números e as mensagens e envia em massa
 
 
